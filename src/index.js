@@ -1,5 +1,4 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './app/App.jsx';
+import $ from 'jquery';
+import Component from './app/component'
 
-ReactDOM.render(<App />, document.getElementById('root'));
+$('#root').html(Component('Legat@!'))
