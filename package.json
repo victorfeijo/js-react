@@ -32,6 +32,8 @@
     "css-loader": "^0.26.4",
     "eslint": "^3.17.1",
     "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
     "jest": "^19.0.2",
     "style-loader": "^0.13.2",
     "tern": "^0.21.0"
